@@ -1,0 +1,8 @@
+pandas
+xlrd>=1.0.0
+tqdm
+numpy
+tabulate
+colorama>=0.3.8
+future
+flask
