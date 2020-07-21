@@ -28,6 +28,4 @@ to deploy the docker container. In order to interact with the running services, 
 
 `curl http://localhost:5000 -d '{"X1": 0.98, "X2": 514.5, "X3": 294, "X4": 110.25, "X5": 7, "X6": 4, "X7": 0, "X8": 0}'`
 
-Thanks!
-
 
